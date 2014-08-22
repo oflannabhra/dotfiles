@@ -19,6 +19,6 @@ Because these are awesome and you can do fancy stuff with them, like have pretty
 
 ### Resources
 
-[Syncing SublimeText3 Settings](https://sublime.wbond.net/docs/syncing)
-[Git Autocomplete in OSX](http://buddylindsey.com/adding-git-autocomplete-to-bash-on-os-x/)
-[OSX .bash_profile explained in detail](http://natelandau.com/my-mac-osx-bash_profile/)
+* [Syncing SublimeText3 Settings](https://sublime.wbond.net/docs/syncing)
+* [Git Autocomplete in OSX](http://buddylindsey.com/adding-git-autocomplete-to-bash-on-os-x/)
+* [OSX .bash_profile explained in detail](http://natelandau.com/my-mac-osx-bash_profile/)
