@@ -1,0 +1,6 @@
+[alias]
+	co = checkout
+	st = status
+[user]
+	name = Ben Flannery
+	email = bflannery@elinkdesign.com

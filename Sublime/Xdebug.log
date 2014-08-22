@@ -1,0 +1,14 @@
+[06/19/2014 02:42:43PM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[06/19/2014 02:42:43PM] INFO - Failed to open /Users/benflannery/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[06/19/2014 02:42:43PM] INFO - Failed to parse /Users/benflannery/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[06/19/2014 02:42:45PM] WARNING - Could not import subprocess32 module, falling back to subprocess module
+[06/19/2014 02:42:46PM] INFO - scan_purelang: path: '/Applications/AMPPS/www/ihlic/git/siteadmin/core/classes/sa/utilities/fdf.class.php' lang: PHP
+[06/19/2014 02:42:46PM] INFO - scan_multilang: path: '/Applications/AMPPS/www/ihlic/git/siteadmin/core/classes/sa/utilities/fdf.class.php' lang: PHP
+[06/19/2014 02:42:46PM] INFO - done eval: success
+[06/19/2014 02:42:47PM] INFO - Autocomplete called (PHP) [calltips]
+[06/19/2014 02:42:47PM] INFO - done eval: success
+[06/19/2014 02:42:47PM] INFO - Autocomplete called (PHP) [calltips]
+[06/19/2014 02:42:52PM] INFO - done eval: success
+[06/19/2014 02:42:52PM] INFO - Autocomplete called (PHP) [calltips]
+[06/19/2014 02:42:52PM] INFO - done eval: success
+[06/19/2014 02:42:52PM] INFO - Autocomplete called (PHP) [calltips]

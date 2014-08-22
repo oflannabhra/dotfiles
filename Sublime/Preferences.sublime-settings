@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Spacegray Eighties.sublime-theme"
+}
